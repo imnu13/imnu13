@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Manu Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Mannu Bhardwaj</h1>
 <h3 align="center">AI Student,passionate programmer, and a Freelancer.</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
